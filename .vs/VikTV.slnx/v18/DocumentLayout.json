@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Models\\VikTVContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VikTV\\Models\\VikTVContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\business\\usersubscribtionbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\business\\usersubscribtionbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\business\\watchhistorybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\business\\watchhistorybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\business\\userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\business\\userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\business\\usercreditsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\business\\usercreditsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\models\\viktvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\models\\viktvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\business\\genrebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\business\\genrebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\business\\profilebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\business\\profilebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\business\\titlecreditbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\business\\titlecreditbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\business\\titlebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\business\\titlebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\business\\subscribtionplanbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\business\\subscribtionplanbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\business\\showbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\business\\showbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\business\\personbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\business\\personbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|c:\\users\\pc\\desktop\\programing documents\\viktv\\viktv solution\\viktv\\viktv\\business\\moviebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DE913-91B9-53B9-EEFD-B48A1991C03E}|VikTV\\VikTV.csproj|solutionrelative:viktv\\business\\moviebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +62,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WatchHistoryBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\WatchHistoryBusiness.cs",
+              "RelativeDocumentMoniker": "VikTV\\Business\\WatchHistoryBusiness.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\WatchHistoryBusiness.cs",
+              "RelativeToolTip": "VikTV\\Business\\WatchHistoryBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:02:14.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserSubscribtionBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\UserSubscribtionBusiness.cs",
+              "RelativeDocumentMoniker": "VikTV\\Business\\UserSubscribtionBusiness.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\UserSubscribtionBusiness.cs",
+              "RelativeToolTip": "VikTV\\Business\\UserSubscribtionBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:01:16.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserCreditsBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\UserCreditsBusiness.cs",
+              "RelativeDocumentMoniker": "VikTV\\Business\\UserCreditsBusiness.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\UserCreditsBusiness.cs",
+              "RelativeToolTip": "VikTV\\Business\\UserCreditsBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:00:54.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\UserBusiness.cs",
+              "RelativeDocumentMoniker": "VikTV\\Business\\UserBusiness.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\UserBusiness.cs",
+              "RelativeToolTip": "VikTV\\Business\\UserBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:00:16.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenreBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\GenreBusiness.cs",
+              "RelativeDocumentMoniker": "VikTV\\Business\\GenreBusiness.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\GenreBusiness.cs",
+              "RelativeToolTip": "VikTV\\Business\\GenreBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:56:46.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "VikTVContext.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Models\\VikTVContext.cs",
               "RelativeDocumentMoniker": "VikTV\\Models\\VikTVContext.cs",
@@ -27,6 +140,97 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T20:07:38.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TitleCreditBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\TitleCreditBusiness.cs",
+              "RelativeDocumentMoniker": "VikTV\\Business\\TitleCreditBusiness.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\TitleCreditBusiness.cs",
+              "RelativeToolTip": "VikTV\\Business\\TitleCreditBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:59:53.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TitleBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\TitleBusiness.cs",
+              "RelativeDocumentMoniker": "VikTV\\Business\\TitleBusiness.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\TitleBusiness.cs",
+              "RelativeToolTip": "VikTV\\Business\\TitleBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:59:10.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubscribtionPlanBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\SubscribtionPlanBusiness.cs",
+              "RelativeDocumentMoniker": "VikTV\\Business\\SubscribtionPlanBusiness.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\SubscribtionPlanBusiness.cs",
+              "RelativeToolTip": "VikTV\\Business\\SubscribtionPlanBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:58:53.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShowBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\ShowBusiness.cs",
+              "RelativeDocumentMoniker": "VikTV\\Business\\ShowBusiness.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\ShowBusiness.cs",
+              "RelativeToolTip": "VikTV\\Business\\ShowBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:58:26.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfileBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\ProfileBusiness.cs",
+              "RelativeDocumentMoniker": "VikTV\\Business\\ProfileBusiness.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\ProfileBusiness.cs",
+              "RelativeToolTip": "VikTV\\Business\\ProfileBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:58:07.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\PersonBusiness.cs",
+              "RelativeDocumentMoniker": "VikTV\\Business\\PersonBusiness.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\PersonBusiness.cs",
+              "RelativeToolTip": "VikTV\\Business\\PersonBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:57:42.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\MovieBusiness.cs",
+              "RelativeDocumentMoniker": "VikTV\\Business\\MovieBusiness.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Programing Documents\\VikTV\\VikTV Solution\\VikTV\\VikTV\\Business\\MovieBusiness.cs",
+              "RelativeToolTip": "VikTV\\Business\\MovieBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:57:16.678Z",
               "EditorCaption": ""
             }
           ]

@@ -304,3 +304,4 @@ C:\Users\PC\Desktop\Programing Documents\VikTV\VikTV Solution\VikTV\VikTV\obj\De
 C:\Users\PC\Desktop\Programing Documents\VikTV\VikTV Solution\VikTV\VikTV\obj\Debug\net10.0\VikTV.pdb
 C:\Users\PC\Desktop\Programing Documents\VikTV\VikTV Solution\VikTV\VikTV\obj\Debug\net10.0\VikTV.genruntimeconfig.cache
 C:\Users\PC\Desktop\Programing Documents\VikTV\VikTV Solution\VikTV\VikTV\obj\Debug\net10.0\ref\VikTV.dll
+C:\Users\PC\Desktop\Programing Documents\VikTV\VikTV Solution\VikTV\VikTV\obj\Debug\net10.0\VikTV.sourcelink.json
