@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace VikTV.Models;
+namespace VikTV.Data.Models;
 
 public partial class Profile
 {

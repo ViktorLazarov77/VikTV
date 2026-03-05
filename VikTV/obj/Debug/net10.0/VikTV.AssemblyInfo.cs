@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VikTV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cee9955966b62fe04115e4d544bd0af7245cd03d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f0819955ce5462cb613737d8be84275c17d0bf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("VikTV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VikTV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
